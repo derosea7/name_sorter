@@ -1,0 +1,9 @@
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\bin\Debug\Sorter.exe.config
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\bin\Debug\Sorter.exe
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\bin\Debug\Sorter.pdb
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Debug\Sorter.csprojResolveAssemblyReference.cache
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Debug\Sorter.Form1.resources
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Debug\Sorter.csproj.GenerateResource.Cache
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Debug\Sorter.exe
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Debug\Sorter.pdb

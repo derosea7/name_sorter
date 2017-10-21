@@ -1,0 +1,7 @@
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\bin\Release\Sorter.exe.config
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\bin\Release\Sorter.exe
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Release\Sorter.Form1.resources
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Release\Sorter.csproj.GenerateResource.Cache
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Release\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Release\Sorter.exe
+C:\Users\derosea7\Desktop\Edupoint\Sorter\Sorter\Sorter\Sorter\obj\Release\Sorter.csprojResolveAssemblyReference.cache
