@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Sorter
 {
+  // Names
   class Person
   {
     public string firstName;
